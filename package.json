@@ -1,0 +1,21 @@
+{
+  "name": "simple-webpack",
+  "version": "1.0.0",
+  "description": "Simple webpack repo",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "webpack",
+    "simple"
+  ],
+  "author": "Balasubramanian",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  }
+}
